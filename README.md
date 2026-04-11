@@ -7,7 +7,7 @@ permalink: index.html
 
 The Spaghett-Together is a monthly feast hosted at the Lummi Island Grange.
 
-## upcomming ghett-togethers
+## upcoming ghett-togethers
 
 ### <time>May 3, 2026</time>
 
