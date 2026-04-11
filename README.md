@@ -1,9 +1,6 @@
-<h1>
-<img alt="the spaghett together" src="images/the-spaghett-together.png">
-</h1>
-
+# ![the spaghett together](images/the-spaghett-together.png "the spaghett together")
 The Spaghett-Together is a monthly feast hosted at the Lummi Island Grange.
-
+s
 ## upcomming ghett-togethers
 
 ### <time>May 3, 2026</time>
