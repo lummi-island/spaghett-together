@@ -19,3 +19,9 @@ Suggested $15 donation per person.
 
 
 ### past ghett-togethers
+
+<style>
+    h1:first-of-type {
+        display: none;
+    }
+</style>
