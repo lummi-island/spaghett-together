@@ -3,8 +3,6 @@ title: the spaghett together
 permalink: index.html
 ---
 
-# the spaghett together
-
 The Spaghett-Together is a monthly feast hosted at the Lummi Island Grange.
 
 ## upcoming ghett-togethers
